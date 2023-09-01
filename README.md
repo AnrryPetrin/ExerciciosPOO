@@ -13,7 +13,7 @@ Cada exercício foi projetado para ser um desafio envolvente que o ajudará a ap
 ## Como Usar
 
 1. Clone este repositório para sua máquina local:
-```git clone https://github.com/AnrryPetrin/Java-POO-Exercicios.git```
+```git clone https://github.com/AnrryPetrin/ExerciciosPOO.git```
    
 2. Navegue para os diretórios "Exercicios" e "Solucoes" para acessar os enunciados e as soluções dos exercícios, respectivamente.
 
