@@ -15,7 +15,7 @@ Cada exercício foi projetado para ser um desafio envolvente que o ajudará a ap
 1. Clone este repositório para sua máquina local:
 ```git clone https://github.com/AnrryPetrin/ExerciciosPOO.git```
    
-2. Navegue para os diretórios "Exercicios" e "Solucoes" para acessar os enunciados e as soluções dos exercícios, respectivamente.
+2. Navegue para os diretórios [exercicios](https://github.com/AnrryPetrin/ExerciciosPOO/tree/main/src/exercicios) e [solucoes](https://github.com/AnrryPetrin/ExerciciosPOO/tree/main/src/solucoes) para acessar os enunciados e as soluções dos exercícios, respectivamente.
 
 3. Para cada exercício, leia o enunciado e tente implementar sua solução.
 
