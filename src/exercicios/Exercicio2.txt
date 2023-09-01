@@ -1,0 +1,5 @@
+Fazer os 3 exercícios da lista1 (Pessoa, Aluno, Funcionário) em Java Swing.
+Criar um Form com Text Fields, Labels e Botões
+Ter 2 Botões:
+Cadastrar
+Mostrar
